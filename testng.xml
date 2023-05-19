@@ -5,6 +5,7 @@
     <classes>
       <class name="baseClasses.FirstTest"/>
       <class name="baseClasses.SecondTest"/>
+      <class name="baseClasses.FifthTest"/>
     </classes>
   </test> <!-- Test -->
   
@@ -20,6 +21,7 @@
     <classes>
       <class name="baseClasses.ThirdTest"/>
       <class name="baseClasses.FBPageTest"/>
+      <class name="baseClasses.FifthTest"/>
     </classes>
   </test> <!-- Test -->
   
@@ -28,6 +30,7 @@
       <class name="baseClasses.FirstTest"/>
       <class name="baseClasses.SecondTest"/>
       <class name="baseClasses.ThirdTest"/>
+      <class name="baseClasses.FifthTest"/>
       <class name="baseClasses.FBPageTest"/>
     </classes>
   </test> <!-- Test -->
