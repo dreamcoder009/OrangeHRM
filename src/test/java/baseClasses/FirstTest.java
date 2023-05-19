@@ -7,7 +7,7 @@ public class FirstTest {
 	@Test
 	public void first() throws InterruptedException
 	{
-		Thread.sleep(4000);
+		Thread.sleep(2000);
 		System.out.println("First Test");
 	}
 
