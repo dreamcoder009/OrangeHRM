@@ -8,6 +8,10 @@ public class FirstTest {
 	public void first() throws InterruptedException
 	{
 		Thread.sleep(6000);
+		Thread.sleep(6000);
+		Thread.sleep(6000);
+		Thread.sleep(6000);
+		Thread.sleep(6000);
 		System.out.println("First Test");
 	}
 
