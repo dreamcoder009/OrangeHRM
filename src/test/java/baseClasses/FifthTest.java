@@ -9,6 +9,8 @@ public class FifthTest {
 	public void fifth()
 	{
 		System.out.println("FIFTH Test");
+		System.out.println("Close Test");
+
 	}
 
 }
