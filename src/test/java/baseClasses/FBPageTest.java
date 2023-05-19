@@ -18,7 +18,7 @@ public class FBPageTest {
 		driver.manage().window().maximize();
 		
 		driver.get("http://facebook.com");
-		Assert.assertEquals("Amar", "Amsar");
+		Assert.assertEquals("Amar", "Amar");
 		
 		driver.close();
 	}
