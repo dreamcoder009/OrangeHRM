@@ -32,6 +32,7 @@
       <class name="baseClasses.ThirdTest"/>
       <class name="baseClasses.FifthTest"/>
       <class name="baseClasses.FBPageTest"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

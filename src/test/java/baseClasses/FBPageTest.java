@@ -23,16 +23,17 @@ public class FBPageTest {
 		driver.get("http://facebook.com");
 		Assert.assertEquals("Amar", "Amar");
 		
-		driver.close();
+		
 	}
 	
 	
+	@Test
 	public void login()
 	{
 		driver.findElement(By.xpath("//input[@name='email']")).sendKeys("amar.genius@yahoo.com");
 		driver.findElement(By.xpath("//input[@name='pass']")).sendKeys("Goalreminder12!");
 		driver.findElement(By.xpath("//button[@name='login']")).click();
-		
+		driver.close();
 	}
 	
 
