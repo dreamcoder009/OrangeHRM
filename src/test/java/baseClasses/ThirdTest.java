@@ -9,6 +9,9 @@ public class ThirdTest {
 	public void third() throws InterruptedException
 	{
 		System.out.println("Third Test");
+		System.out.println("Third Test");
+		System.out.println("Third Test");
+		System.out.println("Third Test");
 		Assert.assertTrue(false);
 		
 	}
